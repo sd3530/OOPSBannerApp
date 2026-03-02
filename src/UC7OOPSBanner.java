@@ -11,7 +11,6 @@ public class UC7OOPSBanner {
 
         // The ASCII art pattern lines for the character
         private String[] pattern;
-
         // Constructor
         public CharacterPatternMap(char character, String[] pattern) {
             this.character = character;
